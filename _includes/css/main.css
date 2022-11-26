@@ -4,6 +4,11 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+@font-face {
+    font-family: 'steadfastoblique';
+    src: url(css/font-awesome/webfonts/steadfastoblique.otf);
+}
+ 
 body {
     overflow-x: hidden;
 }
@@ -14,6 +19,12 @@ p {
 
 p.small {
     font-size: 16px;
+}
+
+#page-top > nav > div > div.navbar-header.page-scroll > a
+{
+    font-family: 'steadfastoblique', sans-serif;
+    letter-spacing: 3px;
 }
 
 a,
