@@ -1,11 +1,16 @@
 # Site settings
 title: Ards Fuels
 email: benthorne99@gmail.com
-url: http://ardsfuels.co.uk/
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+url: http://www.ardsfuels.co.uk/
+description: "We stock a wide range of SMOKELESS and OPEN FIRE fuels in our Newtownards yard – and deliver within an approximate 10 mile radius of Newtownards."
+keywords: "coal, Newtownards, Smokeless coal, Turf, Logs, heat logs, openfire"
 skills: "Quality Coal - Turf - Logs - Bottled Gas"
 meta_author: LastName FirstName
+homepage_desc: "Cash & Carry + Delivery"
+locations: "Servicing the Ards Peninsula"
+Address: "Jubilee Rd, Newtownards, BT23 4YH"
+Phone: "028 9181 8007"
+Opening-times: "Mon-Fri 9.00am-5.30pm"
 
 # Google webmaster tools
 google_verify:
@@ -32,31 +37,20 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Ards Fuels LTD
   location: Location
-  social: Around the Web
-  credits: Credits
+  social: Interact with us on Facebook
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/profile.php?id=100086950862779
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Jubilee Road,
+  - line: Newtownards, BT23 4YH
 
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown

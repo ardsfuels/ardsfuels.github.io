@@ -13,6 +13,14 @@ body {
     overflow-x: hidden;
 }
 
+#octimes{
+    color: #fbe927;
+}
+
+#octimes-sat{
+    color: #fbe927;
+}
+
 p {
     font-size: 20px;
 }
@@ -21,10 +29,19 @@ p.small {
     font-size: 16px;
 }
 
+#page-top > header > div > div > div > div > hr.star-light{
+    border-color: #fbe927;
+}
+
+#page-top > header > div > div > div > div > hr:nth-child(4){
+    border-color: #fbe927;
+}
+
 #page-top > nav > div > div.navbar-header.page-scroll > a
 {
     font-family: 'steadfastoblique', sans-serif;
     letter-spacing: 3px;
+    -webkit-text-stroke: 1px black;
 }
 
 a,
@@ -107,6 +124,12 @@ header img {
     margin: 0 auto 20px;
 }
 
+
+#page-top > header > div > div > div > div > h1{
+    letter-spacing: 3px;
+    color: #fcea28;
+}
+
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
@@ -123,7 +146,7 @@ header .intro-text .skills {
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
-        padding-bottom: 100px;
+       
     }
 
     header .intro-text .name {
@@ -144,7 +167,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top .navbar-brand {
-        font-size: 2em;
+        font-size: 3em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -155,7 +178,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
-        font-size: 1.5em;
+        font-size: 2em;
     }
 }
 
@@ -371,6 +394,10 @@ footer {
 footer h3 {
     margin-bottom: 30px;
 }
+#page-top > footer > div.footer-above > div > div > div:nth-child(2) > h3{
+    margin-bottom: 0px;
+    color: #233140;
+}
 
 footer .footer-above {
     padding-top: 50px;
@@ -384,6 +411,11 @@ footer .footer-col {
 footer .footer-below {
     padding: 25px 0;
     background-color: #{{ site.color.secondary-dark }};
+}
+
+#page-top > footer > div.footer-above > div > div > div:nth-child(1) > h3{
+    color: #233140;
+    margin-bottom: 0px !important;
 }
 
 .btn-social {
