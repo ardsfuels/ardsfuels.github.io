@@ -1,11 +1,14 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: turf.jpg
+date: 2022-12-04
+img: polish-coal.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: December 2022
+client: 
+title: Polish Coal 20kg
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: "Poland is one of the world's leading producers of coal, and our coal is known for its excellent quality and consistency.
+We work hard to ensure that our prices are competitive, so you can get the coal you need at a price that fits your budget. 
+"
 ---

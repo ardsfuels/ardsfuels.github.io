@@ -1,11 +1,15 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
+date: 2022-12-04
+img: columbian-coal.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: December 2022
+title: Colombian Coal 20kg
+category: Coal
+description: "Are you looking for a high-quality, reliable source of coal for home? Look no further than Colombian coal!
+
+Colombia is one of the world's leading producers of coal, and our coal is known for its excellent quality and consistency. You can trust our coal to deliver the performance and reliability you need.
+
+But that's not all – our coal is also competitively priced. We work hard to ensure that our prices are competitive, so you can get the coal you need at a price that fits your budget. Plus, we offer flexible payment options and quick, reliable delivery to make it easy for you to get the coal you need, when you need it."
 ---

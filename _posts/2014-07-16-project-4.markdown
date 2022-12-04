@@ -1,10 +1,10 @@
 ---
 layout: default
-modal-id: 3
+modal-id: 4
 date: 2014-07-16
-img: net-logs.png
+img: max-heat.png
 alt: image-alt
-title: Netted Logs
+title: Max Heat Coal 20kg
 project-date: April 2022
 client: 
 category: 

@@ -4,8 +4,9 @@ modal-id: 6
 date: 2014-07-15
 img: turf.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: December 2022
+description: "Are you tired of using boring, ordinary firewood to heat your home? Say goodbye to dull logs and hello to exciting, colorful turf logs!
+
+Turf logs are the perfect solution for anyone looking to add some flair to their fireplace or wood stove. Made from compressed turf, these logs are not only beautiful to look at, but they also burn clean and hot, providing a long-lasting, efficient source of heat."
+title: Turf Logs
 ---

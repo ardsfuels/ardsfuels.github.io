@@ -515,6 +515,11 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 
+#portfolio > div > div.portfolio-flex-row > div:nth-child(1) > a > img{
+    height: 486px;
+    width: 364px;
+}
+
 .navbar-nav>.active>a {
     background-color: #{{ site.color.secondary-dark }} !important;
 }
