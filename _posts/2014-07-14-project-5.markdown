@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2022-12-04
-img: columbian-coal.png
+img: columbian-coal.webp
 alt: image-alt
 project-date: December 2022
 title: Colombian Coal 20kg

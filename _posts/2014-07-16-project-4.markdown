@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-07-16
-img: max-heat.png
+img: max-heat.webp
 alt: image-alt
 title: Max Heat Coal 20kg
 project-date: April 2022

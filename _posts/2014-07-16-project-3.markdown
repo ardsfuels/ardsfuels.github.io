@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: net-logs.png
+img: net-logs.webp
 alt: image-alt
 title: Netted Logs
 project-date: April 2022

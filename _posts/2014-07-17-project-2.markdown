@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2022-12-04
-img: Smokeless-Coal.png
+img: Smokeless-Coal.webp
 alt: image-alt
 project-date: December 2022
 client: 

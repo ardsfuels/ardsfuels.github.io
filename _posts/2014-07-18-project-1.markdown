@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2022-12-04
-img: polish-coal.png
+img: polish-coal.webp
 alt: image-alt
 project-date: December 2022
 client: 

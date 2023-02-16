@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: turf.jpg
+img: tlogs.webp
 alt: image-alt
 project-date: December 2022
 description: "Are you tired of using boring, ordinary firewood to heat your home? Say goodbye to dull logs and hello to exciting, colorful turf logs!
