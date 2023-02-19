@@ -530,3 +530,14 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+#product-name {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  #portfolio > div > div.portfolio-flex-row > div:nth-child(2) > a > img {
+    height: 489px;
+    width: auto;
+  }

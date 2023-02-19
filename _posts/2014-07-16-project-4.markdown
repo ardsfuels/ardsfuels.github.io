@@ -8,6 +8,7 @@ title: Max Heat Coal 20kg
 project-date: April 2022
 client: 
 category: 
+price: £13.50
 description: "Are you tired of dealing with messy, disorganized piles of firewood? Say goodbye to the hassle and hello to convenient, easy-to-use netted logs!
 
 Netted logs are a simple yet effective solution for anyone who wants to store and transport their firewood in a neat, organized way. These logs are packaged in sturdy, reusable mesh netting, which keeps the logs securely in place and makes them easy to carry and stack.

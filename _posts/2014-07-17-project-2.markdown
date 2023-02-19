@@ -7,7 +7,8 @@ alt: image-alt
 project-date: December 2022
 client: 
 category: 
-title: Smokeless Ovoids 20kg
+title: Smokeless Ovoids (Stove) 20kg
+price: £14.50
 description: "Are you tired of dealing with smoky, messy coal fires? Say goodbye to the hassle and hello to convenient, clean-burning smokeless coal!
 Smokeless coal is a special type of coal that burns with very little smoke, making it an ideal option for anyone who wants to enjoy the warmth and ambiance of a coal fire without the inconvenience of dealing with smoke and soot. With smokeless coal, you can enjoy a cozy, comfortable fire without the headaches of a traditional coal fire.
 But that's not all – smokeless coal is also more efficient than regular coal. It burns hotter and longer, so you can get more heat from less coal. This means you'll save money on fuel costs, and you'll also be doing your part to reduce your carbon footprint.
