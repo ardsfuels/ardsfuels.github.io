@@ -541,3 +541,9 @@ footer .footer-below {
     height: 489px;
     width: auto;
   }
+
+  #product-name {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+  }
